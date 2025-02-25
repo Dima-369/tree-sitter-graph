@@ -1,3 +1,7 @@
+# Changes
+
+- update to `tree-sitter` version `0.25.2`
+
 # tree-sitter-graph
 
 [![DOI](https://zenodo.org/badge/368886913.svg)](https://zenodo.org/badge/latestdoi/368886913)
